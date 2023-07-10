@@ -1,7 +1,7 @@
 // Creo un array vuoto
 const userNumbers = [];
 // Stabilisco un valore somma pari a 0
-sum = 0;
+let sum = 0;
 
 // Ciclo while con condizione somma minore o uguale a 49
 while (sum <= 49){
